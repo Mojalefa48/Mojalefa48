@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Samuel Mahlangu 👋
 
-<!--
-**Mojalefa48/Mojalefa48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Systems Engineer → Security Engineer
 
-Here are some ideas to get you started:
+I specialize in Microsoft Security technologies, with hands-on experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Microsoft Sentinel (SIEM)
+- Microsoft Defender XDR
+- KQL (Kusto Query Language)
+- Zero Trust Architecture
+
+---
+
+## 🔐 Featured Projects
+
+### 🚨 Microsoft Sentinel SOC Lab
+- Built a working SIEM environment
+- Connected Entra ID logs
+- Created detection rules for failed logins
+- Used KQL to investigate activity
+
+👉 [View Project](https://github.com/Mojalefa48/azure-security-portfolio)
+
+---
+
+## 🧠 Skills
+
+- SIEM Implementation (Microsoft Sentinel)
+- Threat Detection & Monitoring
+- Identity Security (Entra ID)
+- Incident Investigation
+
+---
+
+## 📜 Certifications
+- SC-200 (Microsoft Security Operations Analyst)
+- SC-100 (Cybersecurity Architect) *(if completed)*
+
+---
+
+## 🎯 Goal
+To transition into a Security Engineer / SOC Analyst role and build real-world threat detection solutions.
